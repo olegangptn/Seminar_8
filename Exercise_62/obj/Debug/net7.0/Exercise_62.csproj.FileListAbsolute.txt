@@ -1,0 +1,15 @@
+/Users/acfeldman/Documents/GeekB/C# Beginning/Seminar#8/Exercise_62/bin/Debug/net7.0/Exercise_62
+/Users/acfeldman/Documents/GeekB/C# Beginning/Seminar#8/Exercise_62/bin/Debug/net7.0/Exercise_62.deps.json
+/Users/acfeldman/Documents/GeekB/C# Beginning/Seminar#8/Exercise_62/bin/Debug/net7.0/Exercise_62.runtimeconfig.json
+/Users/acfeldman/Documents/GeekB/C# Beginning/Seminar#8/Exercise_62/bin/Debug/net7.0/Exercise_62.dll
+/Users/acfeldman/Documents/GeekB/C# Beginning/Seminar#8/Exercise_62/bin/Debug/net7.0/Exercise_62.pdb
+/Users/acfeldman/Documents/GeekB/C# Beginning/Seminar#8/Exercise_62/obj/Debug/net7.0/Exercise_62.csproj.AssemblyReference.cache
+/Users/acfeldman/Documents/GeekB/C# Beginning/Seminar#8/Exercise_62/obj/Debug/net7.0/Exercise_62.GeneratedMSBuildEditorConfig.editorconfig
+/Users/acfeldman/Documents/GeekB/C# Beginning/Seminar#8/Exercise_62/obj/Debug/net7.0/Exercise_62.AssemblyInfoInputs.cache
+/Users/acfeldman/Documents/GeekB/C# Beginning/Seminar#8/Exercise_62/obj/Debug/net7.0/Exercise_62.AssemblyInfo.cs
+/Users/acfeldman/Documents/GeekB/C# Beginning/Seminar#8/Exercise_62/obj/Debug/net7.0/Exercise_62.csproj.CoreCompileInputs.cache
+/Users/acfeldman/Documents/GeekB/C# Beginning/Seminar#8/Exercise_62/obj/Debug/net7.0/Exercise_62.dll
+/Users/acfeldman/Documents/GeekB/C# Beginning/Seminar#8/Exercise_62/obj/Debug/net7.0/refint/Exercise_62.dll
+/Users/acfeldman/Documents/GeekB/C# Beginning/Seminar#8/Exercise_62/obj/Debug/net7.0/Exercise_62.pdb
+/Users/acfeldman/Documents/GeekB/C# Beginning/Seminar#8/Exercise_62/obj/Debug/net7.0/Exercise_62.genruntimeconfig.cache
+/Users/acfeldman/Documents/GeekB/C# Beginning/Seminar#8/Exercise_62/obj/Debug/net7.0/ref/Exercise_62.dll
